@@ -1,7 +1,7 @@
 # **Contributors**
 
 <!-- prettier-ignore-start -->
-- [Varad Katkalambekar] 
+- [Varad Katkalambekar]
 - [Ishaan Kapoor](https://github.com/kapoor-ishaan/)
 - [Alisa Owens](https://github.com/alisaowens)
 - [Teo Vilenskiy](https://github.com/xxvnt4)
@@ -259,7 +259,7 @@
 - [doziben](https://github.com/doziben)
 - [dyCodes](https://github.com/dyCodes)
 - [mitchiban](https://github.com/mitchiban)
-- [Charles Agoe](https://github.com/agoetee) 
+- [Charles Agoe](https://github.com/agoetee)
 - [mileticluka](https://github.com/mileticluka)
 - [Lloyd the man]
 - [Zelalem Solomon](https://github.com/Zolasol)
@@ -550,6 +550,7 @@ Indra Sonowal
 - [Jasmine](https://github.com/jasminelee789)
 - [Joshua](https://github.com/kxng0109)
 - [Denny Chen](https://github.com/DenxyChen)
+- [Anchit Maheshwari](https://github.com/anchhit)
 - [Antoine Q.](https://github.com/antoine-q)
 - [Omkar Ashtekar](https://github.com/omkarun)
 - [Rodrigo Casanova](https://github.com/rodrigo0345)
